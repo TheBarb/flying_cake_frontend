@@ -1,0 +1,98 @@
+//colors
+
+$sweet-orange: #E67E5Fff;
+$salty-green: #82C2B3ff;
+$cheesy-yellow: #F1CE16ff;
+$fruity-red: #D2160Cff;
+$quichy-darkgreen: #41672Dff;
+$chocolaty-darkbrown: #421F20ff;
+$caky-pink: #EBBC96ff;
+
+
+//types
+
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&family=Raleway&family=Roboto&display=swap');
+
+$fc_font_weight: 400;
+$fc_display_font_family:'Roboto', sans-serif;
+$fc_headline_font_family: 'Montserrat', sans-serif;
+$fc_paragraph_font_family: 'Raleway', sans-serif;
+
+
+
+%fc_display_styles {
+    font-weight: $fc_font_weight;
+    font-family: $fc_display_font_family;
+    text-transform: lowercase;
+}
+
+%fc_headline_styles {
+    font-weight: $fc_font_weight;
+    font-family: $fc_headline_font_family;
+
+}
+
+%fc_paragraph_styles {
+    font-weight: $fc_font_weight;
+    font-family: $fc_paragraph_font_family;
+ 
+}
+
+%fc_legend_styles {
+font-weight: $fc_font_weight;
+  font-family: $fc_headline_font_family;
+  text-transform: uppercase;
+}
+
+@mixin fc_type_sizes($font_size, $line_height) {
+    font-size: $font_size;
+    line-height: $line_height;
+  }
+
+//globals
+
+.display_one {
+    @extend %fc_display_styles;
+    @include fc_type_sizes(4.768rem, 7.451rem);
+  }
+  
+.display_two {
+    @extend %fc_display_styles;
+    @include fc_type_sizes(3.915rem, 5.96rem);
+  }
+  
+  h1 {
+    @extend %fc_headline_styles;
+    @include fc_type_sizes(3.052rem, 4.768rem);
+  }
+  
+  h2 {
+    @extend %fc_headline_styles;
+    @include fc_type_sizes(2.441rem, 3.915rem);
+  }
+  
+  h3 {
+    @extend %fc_headline_styles;
+    @include fc_type_sizes(1.953rem, 3.052rem);
+  }
+  
+  h4 {
+    @extend %fc_headline_styles;
+    @include fc_type_sizes(1.563rem, 2.441rem);
+  }
+  
+  p {
+    @extend %fc_paragraph_styles !optional;
+    @include fc_type_sizes(1rem, 1.953rem);
+  }
+  
+  .p_lead {
+    @extend %fc_paragraph_styles !optional;
+    @include fc_type_sizes(1.25rem, 1.563rem);
+  }
+  
+  .legend {
+    @extend %fc_legend_styles !optional;
+    @include fc_type_sizes(24px, 28.8px);
+  }
+ 
