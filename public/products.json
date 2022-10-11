@@ -1,0 +1,288 @@
+
+{
+    "data": [
+      {
+        "id": 1,
+        "attributes": {
+          "name": "American New York Cheese Cake",
+          "description": "Cremiger Frischkäsekuchen\nnach amerikanischer Art\nBestehend aus drei leckeren Schichten",
+          "createdAt": "2022-09-19T18:05:17.019Z",
+          "updatedAt": "2022-09-19T18:10:34.490Z",
+          "publishedAt": "2022-09-19T18:10:34.490Z",
+          "sweetnotsalty": true
+        }
+      },
+      {
+        "id": 2,
+        "attributes": {
+          "name": "Yew York Cheesecake mit Erdbeerpüreetopping",
+          "description": "klassischer Cheesecake mit\nErdbeerpüree abgerundet",
+          "createdAt": "2022-09-19T18:12:00.948Z",
+          "updatedAt": "2022-09-19T18:12:26.225Z",
+          "publishedAt": "2022-09-19T18:12:26.223Z",
+          "sweetnotsalty": true
+        }
+      },
+      {
+        "id": 3,
+        "attributes": {
+          "name": "New York Cheesecake mit Heidelbeertopping",
+          "description": "klassischer Cheesecake mit eingekochten\nHeidelbeeren abgerundet",
+          "createdAt": "2022-09-19T18:13:19.216Z",
+          "updatedAt": "2022-09-19T18:15:05.690Z",
+          "publishedAt": "2022-09-19T18:15:05.688Z",
+          "sweetnotsalty": true
+        }
+      },
+      {
+        "id": 4,
+        "attributes": {
+          "name": "New York Cheese Chocolate Cake",
+          "description": "Die schokoladige Variante des New York\nCheesecakes mit schokoladiger Frischkäsecreme und mit\nZartbittterschokolade überzogen.",
+          "createdAt": "2022-09-19T18:14:16.680Z",
+          "updatedAt": "2022-09-19T18:14:34.264Z",
+          "publishedAt": "2022-09-19T18:14:34.263Z",
+          "sweetnotsalty": true
+        }
+      },
+      {
+        "id": 5,
+        "attributes": {
+          "name": "New York Mango Cheesecake",
+          "description": "...mit Mango Pulp Topping",
+          "createdAt": "2022-09-19T18:14:58.410Z",
+          "updatedAt": "2022-09-19T18:15:09.653Z",
+          "publishedAt": "2022-09-19T18:15:09.650Z",
+          "sweetnotsalty": true
+        }
+      },
+      {
+        "id": 6,
+        "attributes": {
+          "name": "Heidelbeertarte",
+          "description": "Klassischer Mürbeteig mit einer Schicht\nFrischkäse-Creme und vielen leckeren\nJohannesbeeren und Heidelbeeren",
+          "createdAt": "2022-09-19T18:15:53.799Z",
+          "updatedAt": "2022-09-19T18:16:17.226Z",
+          "publishedAt": "2022-09-19T18:16:17.224Z",
+          "sweetnotsalty": true
+        }
+      },
+      {
+        "id": 7,
+        "attributes": {
+          "name": "Pfirsichtarte",
+          "description": "Klassischer Mürbeteig mit Pfirsichen\nund einer Quarkcreme und einem Mürbeteiggitter",
+          "createdAt": "2022-09-19T18:16:39.527Z",
+          "updatedAt": "2022-09-19T18:16:41.907Z",
+          "publishedAt": "2022-09-19T18:16:41.906Z",
+          "sweetnotsalty": true
+        }
+      },
+      {
+        "id": 8,
+        "attributes": {
+          "name": "Zitronentarte",
+          "description": "Süße Zitronencreme auf Mürbeteig\nabgerundet mit sauerer Sahne",
+          "createdAt": "2022-09-19T18:17:40.246Z",
+          "updatedAt": "2022-09-19T18:17:42.755Z",
+          "publishedAt": "2022-09-19T18:17:42.754Z",
+          "sweetnotsalty": true
+        }
+      },
+      {
+        "id": 9,
+        "attributes": {
+          "name": "Walnusstarte",
+          "description": "Mürbeteig mit einer Honig-Walnuss-\nFüllung dekoriert mit Walnüssen\nund gerösteten Mandeln",
+          "createdAt": "2022-09-19T18:18:21.162Z",
+          "updatedAt": "2022-09-19T18:23:23.403Z",
+          "publishedAt": "2022-09-19T18:23:23.401Z",
+          "sweetnotsalty": true
+        }
+      },
+      {
+        "id": 10,
+        "attributes": {
+          "name": "Himbeertarte",
+          "description": "Klassischer Mürbeteig mit einer Schicht\nFrischkäse-Creme und vielen\nleckeren Himbeeren",
+          "createdAt": "2022-09-19T18:23:44.961Z",
+          "updatedAt": "2022-09-19T18:27:13.789Z",
+          "publishedAt": "2022-09-19T18:27:13.788Z",
+          "sweetnotsalty": true
+        }
+      },
+      {
+        "id": 11,
+        "attributes": {
+          "name": "Kirschtarte",
+          "description": "...mit süßsaueren Kirschen\n",
+          "createdAt": "2022-09-19T18:24:50.070Z",
+          "updatedAt": "2022-09-19T18:24:50.970Z",
+          "publishedAt": "2022-09-19T18:24:50.968Z",
+          "sweetnotsalty": true
+        }
+      },
+      {
+        "id": 12,
+        "attributes": {
+          "name": "Stachelbeerbaisertorte",
+          "description": "Saure Stachelbeeren mit süßer Sahne\nund dekorativer Baiser-Haube",
+          "createdAt": "2022-09-19T18:25:34.533Z",
+          "updatedAt": "2022-09-19T18:25:35.191Z",
+          "publishedAt": "2022-09-19T18:25:35.189Z",
+          "sweetnotsalty": true
+        }
+      },
+      {
+        "id": 13,
+        "attributes": {
+          "name": "Mohnkuchen - Omas Geheimrezept",
+          "description": "Mit süßem Mohn und einer luftigen\nEiweißschicht als Topping",
+          "createdAt": "2022-09-19T18:26:21.417Z",
+          "updatedAt": "2022-09-19T18:26:22.188Z",
+          "publishedAt": "2022-09-19T18:26:22.187Z",
+          "sweetnotsalty": true
+        }
+      },
+      {
+        "id": 14,
+        "attributes": {
+          "name": "Johannisbeerbaisertarte",
+          "description": "Sauer trifft Süß - Johannesbeersahne\nzwischen zwei Baiserböden",
+          "createdAt": "2022-09-19T18:27:06.643Z",
+          "updatedAt": "2022-09-19T18:27:07.255Z",
+          "publishedAt": "2022-09-19T18:27:07.253Z",
+          "sweetnotsalty": true
+        }
+      },
+      {
+        "id": 15,
+        "attributes": {
+          "name": "Schokoladenkuchen",
+          "description": "Zarte Schokoladenschicht zwischen\nluftigem Schokoladenteig\nüberzogen mit Vollmilchschokolade",
+          "createdAt": "2022-09-19T18:27:53.210Z",
+          "updatedAt": "2022-09-19T18:27:53.930Z",
+          "publishedAt": "2022-09-19T18:27:53.928Z",
+          "sweetnotsalty": true
+        }
+      },
+      {
+        "id": 16,
+        "attributes": {
+          "name": "Bienenstich",
+          "description": "karamelisierte Mandelblättchen auf saftigem\nRührteigboden mit Vanillecremefüllung",
+          "createdAt": "2022-09-19T18:28:47.064Z",
+          "updatedAt": "2022-09-19T18:28:47.760Z",
+          "publishedAt": "2022-09-19T18:28:47.758Z",
+          "sweetnotsalty": true
+        }
+      },
+      {
+        "id": 17,
+        "attributes": {
+          "name": "Karottenkuchen",
+          "description": "Saftiger Rührkuchen mit besonderen\nGewürzen verfeinert",
+          "createdAt": "2022-09-19T18:29:13.348Z",
+          "updatedAt": "2022-09-19T18:29:13.956Z",
+          "publishedAt": "2022-09-19T18:29:13.953Z",
+          "sweetnotsalty": true
+        }
+      },
+      {
+        "id": 18,
+        "attributes": {
+          "name": "Russischer Zupfkuchen",
+          "description": "Kakaohaltiger Mürbeteig mit\nzitroniger Quarkfüllung\nnach Omas Geheimrezept",
+          "createdAt": "2022-09-19T18:29:46.664Z",
+          "updatedAt": "2022-09-19T18:29:48.474Z",
+          "publishedAt": "2022-09-19T18:29:48.473Z",
+          "sweetnotsalty": true
+        }
+      },
+      {
+        "id": 19,
+        "attributes": {
+          "name": "Streuselkuchen",
+          "description": "Mit handgemachten Butterstreuseln\nIn den Variationen:\nKirsche, Apfel, Pflaume und Rhabarber",
+          "createdAt": "2022-09-19T18:30:30.766Z",
+          "updatedAt": "2022-09-19T18:30:31.526Z",
+          "publishedAt": "2022-09-19T18:30:31.524Z",
+          "sweetnotsalty": true
+        }
+      },
+      {
+        "id": 20,
+        "attributes": {
+          "name": "Deutscher Käsekuchen",
+          "description": "Ein Familenrezept : Zitronige Quarkmasse\nmit Butterkeksboden",
+          "createdAt": "2022-09-19T18:31:13.013Z",
+          "updatedAt": "2022-09-19T18:31:40.111Z",
+          "publishedAt": "2022-09-19T18:31:40.109Z",
+          "sweetnotsalty": true
+        }
+      },
+      {
+        "id": 21,
+        "attributes": {
+          "name": "Heidelbeerquarktorte",
+          "description": "Eingekochte Heidelbeeren auf einer\nHeidelbeer Quarkschicht mit einem\nRührteigboden",
+          "createdAt": "2022-09-19T18:32:01.449Z",
+          "updatedAt": "2022-09-19T18:32:03.306Z",
+          "publishedAt": "2022-09-19T18:32:03.304Z",
+          "sweetnotsalty": true
+        }
+      },
+      {
+        "id": 22,
+        "attributes": {
+          "name": "Himbeerschmandtorte",
+          "description": "Viel Schmand mit Himbeerstückchen versehen,\nnicht so süß , genau richtig zur Sommerzeit\nzwischen Biskuit und Butterkeksboden, einfach fruchtig und lecker...",
+          "createdAt": "2022-09-19T18:32:40.731Z",
+          "updatedAt": "2022-09-19T18:32:41.366Z",
+          "publishedAt": "2022-09-19T18:32:41.364Z",
+          "sweetnotsalty": true
+        }
+      },
+      {
+        "id": 23,
+        "attributes": {
+          "name": "Erdbeer-Marzipan-Torte",
+          "description": "nur zur Erdbeersaison - Frische Erdbeeren\nmit Sahne vermengt zwischen Biskuit und einer\nfeinen Marzipandecke umschlossen",
+          "createdAt": "2022-09-19T18:34:43.465Z",
+          "updatedAt": "2022-09-19T18:34:46.842Z",
+          "publishedAt": "2022-09-19T18:34:46.839Z",
+          "sweetnotsalty": true
+        }
+      },
+      {
+        "id": 24,
+        "attributes": {
+          "name": "Erdbeerkuchen",
+          "description": "nur zur Erdbeersaison\nklassischer Erdbeerkuchen mit Rührteig,\nPudding und frischen Erdbeeren",
+          "createdAt": "2022-09-19T18:35:14.050Z",
+          "updatedAt": "2022-09-19T18:35:24.642Z",
+          "publishedAt": "2022-09-19T18:35:24.640Z",
+          "sweetnotsalty": true
+        }
+      },
+      {
+        "id": 25,
+        "attributes": {
+          "name": "Schwedische Apfeltorte",
+          "description": "Dreischichtige Torte mit fruchtiger\nApfel-Vanillefüllung abgerundet mit süßer\nSahne und Schokostreusel",
+          "createdAt": "2022-09-19T18:35:46.915Z",
+          "updatedAt": "2022-09-19T18:35:47.570Z",
+          "publishedAt": "2022-09-19T18:35:47.569Z",
+          "sweetnotsalty": true
+        }
+      }
+    ],
+    "meta": {
+      "pagination": {
+        "page": 1,
+        "pageSize": 25,
+        "pageCount": 2,
+        "total": 39
+      }
+    }
+  }
