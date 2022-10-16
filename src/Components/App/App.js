@@ -2,7 +2,7 @@ import React,  { useEffect, useState }  from 'react'
 import { getList } from '../../services/list';
 import './App.scss'
 // import ToggleButton from '../ToggleButton/ToggleButton'
-import Cakelist from '../../Components/Cakelist/Cakelist'
+import CakeListContainer from '../../Components/Cakelist/CakeListContainer'
 
 
 const App = () => {
@@ -19,12 +19,14 @@ const App = () => {
     return () => mounted = false;
   }, [])
 
-
+  /* I would do all filtering in here and then just pass the list or 
+  also have a wrapper class that handles the  data handling  */
+  
   return (
     <>
     <body>
       <h3>Flying Cakes</h3>
-      <Cakelist list={list}/>
+      <CakeListContainer list={list}/>
     </body>
      
     </>
